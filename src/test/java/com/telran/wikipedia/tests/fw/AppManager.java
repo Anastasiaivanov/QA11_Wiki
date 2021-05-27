@@ -22,7 +22,7 @@ public class AppManager {
 
         caps.setCapability("platformName", "Android");
         caps.setCapability("platformVersion", "8.0.0");
-        caps.setCapability("deviceName", "QA11_mobi");
+        caps.setCapability("deviceName", "qa11_mob");
         caps.setCapability("automationName", "Appium");
         caps.setCapability("appPackage", "org.wikipedia");
         caps.setCapability("appActivity", ".main.MainActivity");

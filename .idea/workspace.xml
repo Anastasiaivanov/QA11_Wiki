@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3eb6680a-daf1-4267-9548-83f418eeea5a" name="Default Changelist" comment="" />
+    <list default="true" id="3eb6680a-daf1-4267-9548-83f418eeea5a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/telran/wikipedia/tests/fw/AppManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/telran/wikipedia/tests/fw/AppManager.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -22,20 +26,20 @@
       </list>
     </option>
   </component>
-  <component name="MavenImportPreferences">
-    <option name="generalSettings">
-      <MavenGeneralSettings>
-        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
-      </MavenGeneralSettings>
-    </option>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1nxvw6cTSfbMVLc11g1X4joNv7z" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test/java/com/telran/wikipedia/tests/fw" />
@@ -100,6 +104,12 @@
       <option name="presentableId" value="Default" />
       <updated>1612344792403</updated>
       <workItem from="1612344794459" duration="11730000" />
+      <workItem from="1612379706192" duration="812000" />
+      <workItem from="1613636813973" duration="82000" />
+      <workItem from="1613673441666" duration="107000" />
+      <workItem from="1614696762421" duration="14000" />
+      <workItem from="1614791141652" duration="15000" />
+      <workItem from="1622107324540" duration="1617000" />
     </task>
     <servers />
   </component>
